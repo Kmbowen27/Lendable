@@ -23,7 +23,7 @@ At Lendable, we believe that the mortgage lending process should be simple, tran
 
 ## Getting Started
 
-To get started with Lendable, simply visit our website at [lendable.financial](lendable.financial) and create an account. From there, you can begin exploring our platform and its features.
+To get started with Lendable, simply visit our website at [lendable.financial](https://lendable.financial) and create an account. From there, you can begin exploring our platform and its features.
 
 ## License
 
